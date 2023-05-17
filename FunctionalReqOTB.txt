@@ -1,0 +1,38 @@
+Q1-
+SRS Documentation for 'Online Ticket Booking System'-
+
+Functional Requirements:-
+1. The Application must show the user all the available means of transportation from his/her location to the desired (entered designation).
+
+2. The application must show the choice of option among the available means of transportation along with fare.
+
+3. The application should also provide a page to compare the fare and services among all service providers.
+
+4.The application should also provide the means to book more than one ticket but that to in a single vehicle.
+
+5. The application should apply location technology to know the location of user and show relevent transportation means available.
+
+6.Application should also allow user to book ticket from another city desipite of his/her location(To allow to book for someone else). Also it should allow for an user to book more than one seat as more than one person can be travelling along. 
+
+7. The application must also come with money transfer arrangement  inorder to confirm booking which should provide the option for credit cards,debit cards and UPI.
+
+8. The application should then generate a copy of a succesful transaction along with start point, destination, time of boarding and time of arrival and date of the journey. 
+
+9. The applicaton must provide a facility to book a ticket/s in advance.
+
+10. The application must provide for the facility to cancel tickets before a mentioned time as shown by the application and provide for the refund if applicable.
+                                                                         
+                                                                     Q2
+@Business Entities of online ticket booking for airplanes, buses and trains:-
+1.User 
+2.Airplane company 
+3. BusCompany / Govt. Best Service.
+4.Train company.
+5.Scheduling entity of all the means of travelling bodies.
+
+@Business Operations required while developing the OTB system:-
+1.Memorandum of understanding should be signed by both online application providing comapny and actual transportation providing company regarding all the possible terms and conditions of both parties about services.
+2.Amalgamation of all the means of tranportation under one application must be done.
+3. Documentation regarding money handling between application making softaware comapnay and transport company considering refund policies must be carried out.
+4.The terms and condition between application making software comapny and transportation company should be made clear.
+5. Also the documentaion of the actions in the case of unusual scenarios should be agreed upon by both the parties i.e. software company and transportation comapny.
